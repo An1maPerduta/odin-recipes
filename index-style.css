@@ -1,0 +1,15 @@
+h1{
+    background-color: lightsalmon; font-size: 32px;
+    text-align: center;
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+    font-size: 20px;
+}
+
+ol{
+    color: black;
+    font-family: cursive;
+    font-size: 30px;
+}
