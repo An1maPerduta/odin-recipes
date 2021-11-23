@@ -3,11 +3,13 @@
 }
 
 .title {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
     text-align: center;
     font-family: cursive;
 }
 img {
     width: 700px;
     height: auto;
-    text-align: center;
 }
